@@ -1,0 +1,3 @@
+DisplayName,UserPrincipalName,MailNickname,Password,UsageLocation,LicenseSku,GroupId
+John Doe,john.doe@yourdomain.com,johndoe,SecureP@ss123,GB,yourtenant:O365_BUSINESS,
+Jane Smith,jane.smith@yourdomain.com,janesmith,SecureP@ss123,GB,yourtenant:O365_BUSINESS,<AzureADGroupObjectID>
